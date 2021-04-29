@@ -1,3 +1,5 @@
 Ini adalah file config
 Digunakan untuk melakukan konfigurasi suatu hal misal :
-koneksi database website
+================
+* Konfigurasi koneksi database
+* Konfigurasi env host
