@@ -2,6 +2,4 @@ Ini adalah file config
 Digunakan untuk melakukan konfigurasi suatu hal misal :
 
 * Konfigurasi koneksi database
-* Konfigurasi env host
-* Konfigurasi plugin
-* Konfigurasi template
+
